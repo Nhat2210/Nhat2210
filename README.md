@@ -1,4 +1,4 @@
-![MasterHead](https://camo.githubusercontent.com/371a3bbae1297d47d50006f91fdc0f51f0060b62dbbddbdba1b1b1438bc0f80d/68747470733a2f2f6d617275663030312d6d742e6769746875622e696f2f5072656d69756d2d44656c69766572792f7765622e676966)
+
 <h1 align="center">Hi 👋, I'm Nhat</h1>
 <h3 align="center">A passionate frontend developer from Ha Noi university of Industry</h3>
 <img align="right" width="400" src="https://media2.giphy.com/media/2IudUHdI075HL02Pkk/200w.gif?cid=6c09b952rcqf58caz3ihz1nbkdq9615gunsjnb23qfde30z0&ep=v1_gifs_search&rid=200w.gif&ct=g">
